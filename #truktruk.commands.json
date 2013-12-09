@@ -1,0 +1,3 @@
+{
+	"^!help$": "Available commands: !help, !streams, !hud, !spray, !hitsound, !surf, !susurf, !config, !hardware, !stats, !song and !np."
+}

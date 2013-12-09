@@ -1,0 +1,13 @@
+{
+    "^!streams$": "You can check out other live TF2 streams on http://teamfortress.tv", 
+    "^!help$": "Available commands: !help, !streams, !hud, !spray, !hitsound, !surf, !susurf, !config, !hardware, !stats, !song and !np.", 
+    "^!hitsound$": "http://tf2dingalings.com/sound/details/560", 
+    "^!stats$": "http://sizzlingstats.com/player/76561197993300675", 
+    "^!spray$": "http://i.imgur.com/c77F1.jpg", 
+    "^!susurf$": "The other surf server is SuSurf iT http://forums.tf2jump.com/index.php#c13 IP: 66.151.244.243:27015", 
+    "^!hardware$": "http://pastebin.com/susyW4K8", 
+    "^!dongers$": "raise ur dongers", 
+    "^!surf$": "The surf server is Surf iT http://forums.tf2jump.com/index.php#c13 IP: 216.52.143.76:27015", 
+    "^!hud$": "You can get the HUD truktruk uses here:http://www.mediafire.com/?33r4jw9hwzojeyh", 
+    "^!config$": "TRUKTRUK's config: http://www.mediafire.com/?h8fy27767epksqu"
+}

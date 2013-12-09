@@ -1,0 +1,6 @@
+{
+    "^!song$": "self.do_last_fm('notkurtruss', userChannel)",
+	"^!np$": "self.do_last_fm('notkurtruss', userChannel)",
+	"((check out)|(look up)|(search)).*Google": "self.ircConnection.send_message(userChannel, '.timeout ' + userNick)",
+	"^!mtn$": "self.ircConnection.send_message(userChannel, '*gives ' + userNick + ' mtn dew gamer fuel and a bag of doritos*')"
+}
